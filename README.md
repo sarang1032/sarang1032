@@ -38,8 +38,8 @@ Technologies and tools I use to build amazing projects:
 | [Library-Management-System](https://github.com/sarang1032/Library-Management-System) | Library management system with file handling | C |
 | [Password_generator](https://github.com/sarang1032/Password_generator) | A tool to generate secure passwords | CSS/HTML/JS |
 | [Coderone_Feedback_Form](https://github.com/sarang1032/Coderone_Feedback_Form) | Feedback form application | JavaScript |
-| [Blogging-Platform](https://github.com/sarang1032/Blogging-Platform) | A platform for blogging | Web |
-| [Employee-Details-Management-System](https://github.com/sarang1032/Employee-Details-Management-System) | Employee details management application | Web |
+| [Blogging-Platform](https://github.com/sarang1032/Blogging-Platform) | A platform for blogging | HTML/CSS/JS |
+| [Employee-Details-Management-System](https://github.com/sarang1032/Employee-Details-Management-System) | Employee details management application | HTML/CSS/JS |
 | [sarang1032.github.io](https://github.com/sarang1032/sarang1032.github.io) | Personal portfolio website | JavaScript |
 
 ---
